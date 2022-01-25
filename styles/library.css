@@ -1,0 +1,29 @@
+h1 {
+    background-color: #556B2F;
+    text-align: center;
+    padding: 100px 80px;
+    color: white;
+    font-style: italic;
+    font-size: 100px;
+}
+
+img{
+    border-style: solid;
+    border-width: 10px;
+    border-color: peachpuff;
+    border-radius: 50%;
+    max-width: 40%;
+    height: auto;
+}
+
+body{
+    font-size: 20px;
+    font-family: cursive;
+}
+
+footer{
+    background-color: peachpuff;
+    padding-block: 100px;
+    text-align: center;
+    
+    }
