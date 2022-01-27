@@ -52,6 +52,15 @@ body{
    padding-block: 100px;
 }
 
+.button{
+
+    background-color: #556B2F;
+    color: white;
+    padding: 15px;
+    border-radius: 40px;
+    margin: 100px;
+}
+
 footer{
 background-color: peachpuff;
 padding-block: 100px;
