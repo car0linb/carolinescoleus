@@ -23,6 +23,33 @@ img{
     width: 50%;
   }
 
+.avatar, .flora, .magicsunset, .haines, .goldendreams, .marooned, .sprinkles
+ {
+    border-style: solid;
+    border-color: rgb(212, 209, 209);
+    border-radius: 20%;
+    max-width: 20%;
+    height: auto;
+    margin: 20px;
+    border:none
+
+}
+
+.info-container
+{
+background-color: #556B2F;
+color: white;
+display: block;
+height: 200px;
+width: 200px;
+padding: 5px;
+margin: 5px;
+border: 5px solid grey;
+border-radius: 10%;
+}
+
+
+
 body{
     font-size: 20px;
     font-family: cursive;

@@ -61,6 +61,11 @@ body{
     margin: 100px;
 }
 
+.button:hover {
+    background-color: peachpuff;
+    color: black;
+}
+
 footer{
 background-color: peachpuff;
 padding-block: 100px;
