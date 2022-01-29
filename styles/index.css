@@ -1,3 +1,10 @@
+body {
+    font-family: 'Open Sans Condensed', sans-serif;  
+    font-size: 25px;
+    line-height: 1.5; 
+}
+
+
 h1 {
     background-color: #556B2F;
     text-align: center;
@@ -23,16 +30,9 @@ img{
     width: 50%;
   }
 
-
-body{
-    font-size: 20px;
-    font-family: cursive;
-}
-
 .great {
     background-color: peachpuff;
-    padding-block: 100px;
-
+    padding: 100px;
 }
 
 .start {
@@ -42,23 +42,30 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     height: 50vh;
-    padding-block: 100px;
+    padding: 100px;
     color: black;
-    font-size: 20px;
 }
 
 #aboutus {
    text-align: center; 
-   padding-block: 100px;
+   padding: 100px;
 }
 
 .button{
 
     background-color: #556B2F;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 25px;
     color: white;
-    padding: 15px;
+    padding: 25px;
     border-radius: 40px;
-    margin: 100px;
+    cursor:pointer
+}
+
+.button:visited
+{
+    background-color: lightpink;
+    color: black;
 }
 
 .button:hover {
@@ -68,7 +75,7 @@ body{
 
 footer{
 background-color: peachpuff;
-padding-block: 100px;
+padding: 100px;
 text-align: center;
 
 }

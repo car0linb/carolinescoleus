@@ -26,12 +26,13 @@ img{
 .avatar, .flora, .magicsunset, .haines, .goldendreams, .marooned, .sprinkles
  {
     border-style: solid;
-    border-color: rgb(212, 209, 209);
+    border-width: 2px;
+    padding: 10px;
+    border-color: coral;
     border-radius: 20%;
     max-width: 20%;
     height: auto;
     margin: 20px;
-    border:none
 
 }
 
